@@ -1,5 +1,5 @@
-# TRE
-The Reverse Encryption
+# Invertex
+The Unique Invert Encryption
 
 a => z
 
