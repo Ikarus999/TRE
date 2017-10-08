@@ -2,7 +2,7 @@
 The Unique Invert Encryption
 
 |Letter | Hash|
----------------
+|-------|-----|
 | a | z |
 | b | y |
 | c | x |
